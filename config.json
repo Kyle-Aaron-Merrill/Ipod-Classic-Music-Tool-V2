@@ -1,0 +1,9 @@
+{
+  "ip": "",
+  "port": 3000,
+  "openai_credentials": {
+    "api_key": "",
+    "organization": "",
+    "project_id": ""
+  }
+}

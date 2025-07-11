@@ -1,0 +1,292 @@
+[
+  {
+    "Thumbnail URL": "https://i.ytimg.com/vi_webp/mxjdvB-jqew/maxresdefault.webp",
+    "Album": "SAVAGE MODE II (CHOPPED NOT SLOPPED)",
+    "Artist": "21 Savage, Metro Boomin",
+    "Track Title": "Purple Savage Mode II Intro [ChopNotSlop Remix]",
+    "Track Number": 1,
+    "File Path": "music/01 - Purple Savage Mode II Intro [ChopNotSlop Remix].mp3",
+    "Service": "youtube_music",
+    "Album URL": "https://www.youtube.com/playlist?list=OLAK5uy_lkoLmXDyuMJtazBrVXRuWA1wS3DhPQsFE"
+  },
+  {
+    "Thumbnail URL": "https://i.ytimg.com/vi_webp/TFrCSar_60M/maxresdefault.webp",
+    "Album": "SAVAGE MODE II (CHOPPED NOT SLOPPED)",
+    "Artist": "21 Savage, Metro Boomin",
+    "Track Title": "Many Men [ChopNotSlop Remix]",
+    "Track Number": 2,
+    "File Path": "music/02 - Many Men [ChopNotSlop Remix].mp3",
+    "Service": "youtube_music",
+    "Album URL": "https://www.youtube.com/playlist?list=OLAK5uy_lkoLmXDyuMJtazBrVXRuWA1wS3DhPQsFE"
+  },
+  {
+    "Thumbnail URL": "https://i.ytimg.com/vi_webp/wEGtwTr_zxY/maxresdefault.webp",
+    "Album": "SAVAGE MODE II (CHOPPED NOT SLOPPED)",
+    "Artist": "21 Savage, Metro Boomin",
+    "Track Title": "Runnin [ChopNotSlop Remix]",
+    "Track Number": 3,
+    "File Path": "music/03 - Runnin [ChopNotSlop Remix].mp3",
+    "Service": "youtube_music",
+    "Album URL": "https://www.youtube.com/playlist?list=OLAK5uy_lkoLmXDyuMJtazBrVXRuWA1wS3DhPQsFE"
+  },
+  {
+    "Thumbnail URL": "https://i.ytimg.com/vi_webp/GLXh_ycOOC0/maxresdefault.webp",
+    "Album": "SAVAGE MODE II (CHOPPED NOT SLOPPED)",
+    "Artist": "21 Savage, Metro Boomin",
+    "Track Title": "My Dawg [ChopNotSlop Remix]",
+    "Track Number": 4,
+    "File Path": "music/04 - My Dawg [ChopNotSlop Remix].mp3",
+    "Service": "youtube_music",
+    "Album URL": "https://www.youtube.com/playlist?list=OLAK5uy_lkoLmXDyuMJtazBrVXRuWA1wS3DhPQsFE"
+  },
+  {
+    "Thumbnail URL": "https://i.ytimg.com/vi_webp/Ri0CtgErZps/maxresdefault.webp",
+    "Album": "SAVAGE MODE II (CHOPPED NOT SLOPPED)",
+    "Artist": "21 Savage, Metro Boomin, Young Nudy",
+    "Track Title": "Snitches & Rats [ChopNotSlop Remix]",
+    "Track Number": 5,
+    "File Path": "music/05 - Snitches & Rats [ChopNotSlop Remix].mp3",
+    "Service": "youtube_music",
+    "Album URL": "https://www.youtube.com/playlist?list=OLAK5uy_lkoLmXDyuMJtazBrVXRuWA1wS3DhPQsFE"
+  },
+  {
+    "Thumbnail URL": "https://i.ytimg.com/vi_webp/2fhdEfb5HVM/maxresdefault.webp",
+    "Album": "SAVAGE MODE II (CHOPPED NOT SLOPPED)",
+    "Artist": "21 Savage, Metro Boomin",
+    "Track Title": "Glock In My Lap [ChopNotSlop Remix]",
+    "Track Number": 6,
+    "File Path": "music/06 - Glock In My Lap [ChopNotSlop Remix].mp3",
+    "Service": "youtube_music",
+    "Album URL": "https://www.youtube.com/playlist?list=OLAK5uy_lkoLmXDyuMJtazBrVXRuWA1wS3DhPQsFE"
+  },
+  {
+    "Thumbnail URL": "https://i.ytimg.com/vi_webp/mcjjdxQuBPw/maxresdefault.webp",
+    "Album": "SAVAGE MODE II (CHOPPED NOT SLOPPED)",
+    "Artist": "21 Savage, Metro Boomin",
+    "Track Title": "Slidin [ChopNotSlop Remix]",
+    "Track Number": 7,
+    "File Path": "music/07 - Slidin [ChopNotSlop Remix].mp3",
+    "Service": "youtube_music",
+    "Album URL": "https://www.youtube.com/playlist?list=OLAK5uy_lkoLmXDyuMJtazBrVXRuWA1wS3DhPQsFE"
+  },
+  {
+    "Thumbnail URL": "https://i.ytimg.com/vi_webp/4sWasfUj2Ss/maxresdefault.webp",
+    "Album": "SAVAGE MODE II (CHOPPED NOT SLOPPED)",
+    "Artist": "21 Savage, Metro Boomin",
+    "Track Title": "Brand New Draco [ChopNotSlop Remix]",
+    "Track Number": 8,
+    "File Path": "music/08 - Brand New Draco [ChopNotSlop Remix].mp3",
+    "Service": "youtube_music",
+    "Album URL": "https://www.youtube.com/playlist?list=OLAK5uy_lkoLmXDyuMJtazBrVXRuWA1wS3DhPQsFE"
+  },
+  {
+    "Thumbnail URL": "https://i.ytimg.com/vi_webp/hmGX6IQVH70/maxresdefault.webp",
+    "Album": "SAVAGE MODE II (CHOPPED NOT SLOPPED)",
+    "Artist": "21 Savage, Metro Boomin",
+    "Track Title": "No Opp Left Behind [ChopNotSlop Remix]",
+    "Track Number": 9,
+    "File Path": "music/09 - No Opp Left Behind [ChopNotSlop Remix].mp3",
+    "Service": "youtube_music",
+    "Album URL": "https://www.youtube.com/playlist?list=OLAK5uy_lkoLmXDyuMJtazBrVXRuWA1wS3DhPQsFE"
+  },
+  {
+    "Thumbnail URL": "https://i.ytimg.com/vi_webp/8BK3WtSBHAE/maxresdefault.webp",
+    "Album": "SAVAGE MODE II (CHOPPED NOT SLOPPED)",
+    "Artist": "21 Savage, Metro Boomin",
+    "Track Title": "Steppin On Niggas [ChopNotSlop Remix]",
+    "Track Number": 10,
+    "File Path": "music/10 - Steppin On Niggas [ChopNotSlop Remix].mp3",
+    "Service": "youtube_music",
+    "Album URL": "https://www.youtube.com/playlist?list=OLAK5uy_lkoLmXDyuMJtazBrVXRuWA1wS3DhPQsFE"
+  },
+  {
+    "Thumbnail URL": "https://i.ytimg.com/vi_webp/rMtwKCm7CxM/maxresdefault.webp",
+    "Album": "SAVAGE MODE II (CHOPPED NOT SLOPPED)",
+    "Artist": "21 Savage, Metro Boomin, Drake",
+    "Track Title": "Mr. Right Now [ChopNotSlop Remix]",
+    "Track Number": 11,
+    "File Path": "music/11 - Mr. Right Now [ChopNotSlop Remix].mp3",
+    "Service": "youtube_music",
+    "Album URL": "https://www.youtube.com/playlist?list=OLAK5uy_lkoLmXDyuMJtazBrVXRuWA1wS3DhPQsFE"
+  },
+  {
+    "Thumbnail URL": "https://i.ytimg.com/vi_webp/tmJpGN_YOxw/maxresdefault.webp",
+    "Album": "SAVAGE MODE II (CHOPPED NOT SLOPPED)",
+    "Artist": "21 Savage, Metro Boomin, Young Thug",
+    "Track Title": "Rich Nigga Shit [ChopNotSlop Remix]",
+    "Track Number": 12,
+    "File Path": "music/12 - Rich Nigga Shit [ChopNotSlop Remix].mp3",
+    "Service": "youtube_music",
+    "Album URL": "https://www.youtube.com/playlist?list=OLAK5uy_lkoLmXDyuMJtazBrVXRuWA1wS3DhPQsFE"
+  },
+  {
+    "Thumbnail URL": "https://i.ytimg.com/vi_webp/RuFQl0slxtQ/maxresdefault.webp",
+    "Album": "SAVAGE MODE II (CHOPPED NOT SLOPPED)",
+    "Artist": "21 Savage, Metro Boomin",
+    "Track Title": "RIP Luv [ChopNotSlop Remix]",
+    "Track Number": 13,
+    "File Path": "music/13 - RIP Luv [ChopNotSlop Remix].mp3",
+    "Service": "youtube_music",
+    "Album URL": "https://www.youtube.com/playlist?list=OLAK5uy_lkoLmXDyuMJtazBrVXRuWA1wS3DhPQsFE"
+  },
+  {
+    "Thumbnail URL": "https://i.ytimg.com/vi_webp/NP5LaoFp9mg/maxresdefault.webp",
+    "Album": "SAVAGE MODE II (CHOPPED NOT SLOPPED)",
+    "Artist": "21 Savage, Metro Boomin",
+    "Track Title": "Said N Done [ChopNotSlop Remix]",
+    "Track Number": 14,
+    "File Path": "music/14 - Said N Done [ChopNotSlop Remix].mp3",
+    "Service": "youtube_music",
+    "Album URL": "https://www.youtube.com/playlist?list=OLAK5uy_lkoLmXDyuMJtazBrVXRuWA1wS3DhPQsFE"
+  },
+  {
+    "Thumbnail URL": "https://i.ytimg.com/vi_webp/nb6WvWZ2rrk/maxresdefault.webp",
+    "Album": "SAVAGE MODE II (CHOPPED NOT SLOPPED)",
+    "Artist": "21 Savage, Metro Boomin",
+    "Track Title": "Intro",
+    "Track Number": 15,
+    "File Path": "music/15 - Intro.mp3",
+    "Service": "youtube_music",
+    "Album URL": "https://www.youtube.com/playlist?list=OLAK5uy_lkoLmXDyuMJtazBrVXRuWA1wS3DhPQsFE"
+  },
+  {
+    "Thumbnail URL": "https://i.ytimg.com/vi_webp/3afvDtLGiyQ/maxresdefault.webp",
+    "Album": "SAVAGE MODE II (CHOPPED NOT SLOPPED)",
+    "Artist": "21 Savage, Metro Boomin",
+    "Track Title": "Runnin",
+    "Track Number": 16,
+    "File Path": "music/16 - Runnin.mp3",
+    "Service": "youtube_music",
+    "Album URL": "https://www.youtube.com/playlist?list=OLAK5uy_lkoLmXDyuMJtazBrVXRuWA1wS3DhPQsFE"
+  },
+  {
+    "Thumbnail URL": "https://i.ytimg.com/vi_webp/5SMAQjFOF8A/maxresdefault.webp",
+    "Album": "SAVAGE MODE II (CHOPPED NOT SLOPPED)",
+    "Artist": "21 Savage, Metro Boomin",
+    "Track Title": "Glock In My Lap",
+    "Track Number": 17,
+    "File Path": "music/17 - Glock In My Lap.mp3",
+    "Service": "youtube_music",
+    "Album URL": "https://www.youtube.com/playlist?list=OLAK5uy_lkoLmXDyuMJtazBrVXRuWA1wS3DhPQsFE"
+  },
+  {
+    "Thumbnail URL": "https://i.ytimg.com/vi_webp/kY0_sOQGVAw/maxresdefault.webp",
+    "Album": "SAVAGE MODE II (CHOPPED NOT SLOPPED)",
+    "Artist": "21 Savage, Metro Boomin, Drake",
+    "Track Title": "Mr. Right Now",
+    "Track Number": 18,
+    "File Path": "music/18 - Mr. Right Now.mp3",
+    "Service": "youtube_music",
+    "Album URL": "https://www.youtube.com/playlist?list=OLAK5uy_lkoLmXDyuMJtazBrVXRuWA1wS3DhPQsFE"
+  },
+  {
+    "Thumbnail URL": "https://i.ytimg.com/vi_webp/fZv4rzwbS0U/maxresdefault.webp",
+    "Album": "SAVAGE MODE II (CHOPPED NOT SLOPPED)",
+    "Artist": "21 Savage, Metro Boomin, Young Thug",
+    "Track Title": "Rich Nigga Shit",
+    "Track Number": 19,
+    "File Path": "music/19 - Rich Nigga Shit.mp3",
+    "Service": "youtube_music",
+    "Album URL": "https://www.youtube.com/playlist?list=OLAK5uy_lkoLmXDyuMJtazBrVXRuWA1wS3DhPQsFE"
+  },
+  {
+    "Thumbnail URL": "https://i.ytimg.com/vi_webp/lGI2fQhg13E/maxresdefault.webp",
+    "Album": "SAVAGE MODE II (CHOPPED NOT SLOPPED)",
+    "Artist": "21 Savage, Metro Boomin",
+    "Track Title": "Slidin",
+    "Track Number": 20,
+    "File Path": "music/20 - Slidin.mp3",
+    "Service": "youtube_music",
+    "Album URL": "https://www.youtube.com/playlist?list=OLAK5uy_lkoLmXDyuMJtazBrVXRuWA1wS3DhPQsFE"
+  },
+  {
+    "Thumbnail URL": "https://i.ytimg.com/vi_webp/0DrO5UkhEz0/maxresdefault.webp",
+    "Album": "SAVAGE MODE II (CHOPPED NOT SLOPPED)",
+    "Artist": "21 Savage, Metro Boomin",
+    "Track Title": "Many Men",
+    "Track Number": 21,
+    "File Path": "music/21 - Many Men.mp3",
+    "Service": "youtube_music",
+    "Album URL": "https://www.youtube.com/playlist?list=OLAK5uy_lkoLmXDyuMJtazBrVXRuWA1wS3DhPQsFE"
+  },
+  {
+    "Thumbnail URL": "https://i.ytimg.com/vi_webp/vEXeBvGFqkg/maxresdefault.webp",
+    "Album": "SAVAGE MODE II (CHOPPED NOT SLOPPED)",
+    "Artist": "21 Savage, Metro Boomin",
+    "Track Title": "Snitches & Rats (Interlude)",
+    "Track Number": 22,
+    "File Path": "music/22 - Snitches & Rats (Interlude).mp3",
+    "Service": "youtube_music",
+    "Album URL": "https://www.youtube.com/playlist?list=OLAK5uy_lkoLmXDyuMJtazBrVXRuWA1wS3DhPQsFE"
+  },
+  {
+    "Thumbnail URL": "https://i.ytimg.com/vi_webp/SDh5ITkbB3A/maxresdefault.webp",
+    "Album": "SAVAGE MODE II (CHOPPED NOT SLOPPED)",
+    "Artist": "21 Savage, Metro Boomin, Young Nudy",
+    "Track Title": "Snitches & Rats",
+    "Track Number": 23,
+    "File Path": "music/23 - Snitches & Rats.mp3",
+    "Service": "youtube_music",
+    "Album URL": "https://www.youtube.com/playlist?list=OLAK5uy_lkoLmXDyuMJtazBrVXRuWA1wS3DhPQsFE"
+  },
+  {
+    "Thumbnail URL": "https://i.ytimg.com/vi_webp/uZJznFWljw4/maxresdefault.webp",
+    "Album": "SAVAGE MODE II (CHOPPED NOT SLOPPED)",
+    "Artist": "21 Savage, Metro Boomin",
+    "Track Title": "My Dawg",
+    "Track Number": 24,
+    "File Path": "music/24 - My Dawg.mp3",
+    "Service": "youtube_music",
+    "Album URL": "https://www.youtube.com/playlist?list=OLAK5uy_lkoLmXDyuMJtazBrVXRuWA1wS3DhPQsFE"
+  },
+  {
+    "Thumbnail URL": "https://i.ytimg.com/vi_webp/zFynATA882E/maxresdefault.webp",
+    "Album": "SAVAGE MODE II (CHOPPED NOT SLOPPED)",
+    "Artist": "21 Savage, Metro Boomin",
+    "Track Title": "Steppin On Niggas",
+    "Track Number": 25,
+    "File Path": "music/25 - Steppin On Niggas.mp3",
+    "Service": "youtube_music",
+    "Album URL": "https://www.youtube.com/playlist?list=OLAK5uy_lkoLmXDyuMJtazBrVXRuWA1wS3DhPQsFE"
+  },
+  {
+    "Thumbnail URL": "https://i.ytimg.com/vi_webp/ecchC8xMnLs/maxresdefault.webp",
+    "Album": "SAVAGE MODE II (CHOPPED NOT SLOPPED)",
+    "Artist": "21 Savage, Metro Boomin",
+    "Track Title": "Brand New Draco",
+    "Track Number": 26,
+    "File Path": "music/26 - Brand New Draco.mp3",
+    "Service": "youtube_music",
+    "Album URL": "https://www.youtube.com/playlist?list=OLAK5uy_lkoLmXDyuMJtazBrVXRuWA1wS3DhPQsFE"
+  },
+  {
+    "Thumbnail URL": "https://i.ytimg.com/vi_webp/PCjnLkg3vlo/maxresdefault.webp",
+    "Album": "SAVAGE MODE II (CHOPPED NOT SLOPPED)",
+    "Artist": "21 Savage, Metro Boomin",
+    "Track Title": "No Opp Left Behind",
+    "Track Number": 27,
+    "File Path": "music/27 - No Opp Left Behind.mp3",
+    "Service": "youtube_music",
+    "Album URL": "https://www.youtube.com/playlist?list=OLAK5uy_lkoLmXDyuMJtazBrVXRuWA1wS3DhPQsFE"
+  },
+  {
+    "Thumbnail URL": "https://i.ytimg.com/vi_webp/NSLBoNubQBo/maxresdefault.webp",
+    "Album": "SAVAGE MODE II (CHOPPED NOT SLOPPED)",
+    "Artist": "21 Savage, Metro Boomin",
+    "Track Title": "RIP Luv",
+    "Track Number": 28,
+    "File Path": "music/28 - RIP Luv.mp3",
+    "Service": "youtube_music",
+    "Album URL": "https://www.youtube.com/playlist?list=OLAK5uy_lkoLmXDyuMJtazBrVXRuWA1wS3DhPQsFE"
+  },
+  {
+    "Thumbnail URL": "https://i.ytimg.com/vi_webp/kij2t8M6sQg/maxresdefault.webp",
+    "Album": "SAVAGE MODE II (CHOPPED NOT SLOPPED)",
+    "Artist": "21 Savage, Metro Boomin",
+    "Track Title": "Said N Done",
+    "Track Number": 29,
+    "File Path": "music/29 - Said N Done.mp3",
+    "Service": "youtube_music",
+    "Album URL": "https://www.youtube.com/playlist?list=OLAK5uy_lkoLmXDyuMJtazBrVXRuWA1wS3DhPQsFE"
+  }
+]
